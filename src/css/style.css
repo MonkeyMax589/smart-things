@@ -1,0 +1,41 @@
+body{
+    background-color:rgba(255, 68, 0, 0.85);
+}
+
+.naslov{
+    text-align: center;
+    color: white;
+}
+
+.uvod{
+    text-align: center;
+    color: white;
+}
+
+.main{
+    text-align: center;
+    color: white;
+}
+
+.purchase{
+    text-align: center;
+    color: white;
+}
+
+.purchase .btn-naruci{
+    text-align: center;
+    color: white;
+    background-color: rgba(255, 68, 0, 0.85);
+    border-radius: 8px;
+    width: 5rem;
+    height: 3rem;
+    font-size: 16px;
+    text-transform: uppercase;
+    border-color: black;
+}
+
+.footer-area .copyright .para{
+    text-align: center;
+    padding-top: 25rem;
+    color: white;
+}
