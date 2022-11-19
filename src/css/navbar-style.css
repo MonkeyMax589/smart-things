@@ -37,6 +37,7 @@ li, a{
 
 .nav-links li a:hover{
     color: #0088A9;
+    transform: scale(1.5);
 }
 
 .copyright{
