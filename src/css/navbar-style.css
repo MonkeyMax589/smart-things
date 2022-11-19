@@ -32,7 +32,8 @@ li, a{
 }
 
 .nav-links li a{
-    transition: all 0.3 ease 0s;
+    transition: transform 0.3 ease;
+    transition: color 0.3 ease;
 }
 
 .nav-links li a:hover{
